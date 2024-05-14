@@ -28,3 +28,5 @@ void Mahasiswa::printALL() {
 	cout << endl;
 }
 
+int main() {
+	
